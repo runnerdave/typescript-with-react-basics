@@ -13,8 +13,12 @@
     "typescript",
     "jest"
   ],
-  "author": "David Jimenez",
-  "license": "ISC",
+  "author": "David Jiménez",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/runnerdave/typescript-with-react-basics.git"
+  },
   "dependencies": {
     "@types/react": "^16.0.29",
     "@types/react-dom": "^16.0.3",

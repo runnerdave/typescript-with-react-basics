@@ -2,7 +2,7 @@
 
 ## packages
 
-``$ npm i --save react react-dom webpack webpack-dev-server typescript @types/react @types/react-dom ts-loader``
+````$ npm i --save react react-dom webpack webpack-dev-server typescript @types/react @types/react-dom ts-loader````
 
 
 ## steps
@@ -13,3 +13,10 @@
     * build instruction
     * start instruction, for local webpack-dev-server
 * create a src folder with app.tsx file in it
+
+## credits
+Basarat Ali Syed course at:
+
+https://egghead.io/lessons/egghead-bootstrap-a-typescript-react-project
+
+https://github.com/basarat/typescript-react

@@ -1,0 +1,26 @@
+{
+  "name": "typescript-with-react",
+  "version": "1.0.0",
+  "description": "repo for the egghead course: Use Typescript to develop React applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "jest"
+  ],
+  "author": "David Jimenez",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^16.0.29",
+    "@types/react-dom": "^16.0.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "ts-loader": "^3.2.0",
+    "typescript": "^2.6.2",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.9.7"
+  }
+}

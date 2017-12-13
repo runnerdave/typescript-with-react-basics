@@ -13,7 +13,8 @@
     * build instruction
     * start instruction, for local webpack-dev-server
 * create a src folder with app.tsx file in it
-* in app.tsx define a component <App/> that is typed to React.SFC
+* in app.tsx define a component \<AppStateless/> that is typed to React.SFC
+* in app.tsx define a component \<AppStateful /> that extends React.Component
 
 ## credits
 Basarat Ali Syed course at:

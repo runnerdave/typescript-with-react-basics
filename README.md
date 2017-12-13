@@ -4,3 +4,12 @@
 
 ``$ npm i --save react react-dom webpack webpack-dev-server typescript @types/react @types/react-dom ts-loader``
 
+
+## steps
+* create a webpack.config.js file
+* create a public folder
+* create a .tsconfig file
+* add a section for scripts in the package.json file with 
+    * build instruction
+    * start instruction, for local webpack-dev-server
+* create a src folder with app.tsx file in it

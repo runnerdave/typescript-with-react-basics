@@ -4,7 +4,9 @@
   "description": "repo for the egghead course: Use Typescript to develop React applications",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "webpack ./webpack.config.js",
+    "start": "webpack-dev-server ./webpack.config.js --content-base ./public"
   },
   "keywords": [
     "react",
